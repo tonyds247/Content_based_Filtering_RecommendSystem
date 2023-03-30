@@ -21,7 +21,6 @@ I. We assumed that user are viewing Item_ID: 23288601
 And there will be 5 suggested items in recommendation (included similarity score)
   + **Gemsim:**
  **Recommend 5 products similar to SÉT ĐỒ THỂ THAO NAM🚗 MẪU MONTER ĐỘC ĐÁO HÀNG BAO ĐẸP. FREEship....result below
-----
 - 23317401
 recommended product id:23317401, Sét Bộ Quần Áo Thể Thao Kẻ Sọc Cực Chất Cao Cấp, Áo Thun Cổ Tròn Ngắn Tay (score: )0.5098354)
 - 16226602
@@ -32,10 +31,9 @@ recommended product id:23463701, Bộ thể thao nam hè NY phối nâu, Bộ na
 recommended product id:1663702, BỘ thể thao nam nữ mẫu thun lạnh ETRENITEST mã ET(score: )0.91875774)
 - 23322101
 recommended product id:23322101, Nguyên bộ thể thao nam mẫu mới phong cách hàn quốc,🚛FREE SHIP🚛,(score: )0.99999994)
-
+----
   + **Cosine_Similarity:**
  Recommend 5 products similar to SÉT ĐỒ THỂ THAO NAM🚗 MẪU MONTER ĐỘC ĐÁO HÀNG BAO ĐẸP. FREEship....result below
------
 - 23317401
 recommended product id:23317401, Sét Bộ Quần Áo Thể Thao Kẻ Sọc Cực Chất Cao Cấp, Áo Thun Cổ Tròn Ngắn Tay (score: )0.5801808285169417)
 - 16226602
@@ -46,7 +44,7 @@ recommended product id:23463701, Bộ thể thao nam hè NY phối nâu, Bộ na
 recommended product id:1663702, BỘ thể thao nam nữ mẫu thun lạnh ETRENITEST mã ET(score: )0.923302359894251)
 - 23322101
 recommended product id:23322101, Nguyên bộ thể thao nam mẫu mới phong cách hàn quốc,🚛FREE SHIP🚛,(score: )1.0000000000000002)
-
+----
 ** There was similar results
 
 II. content based on an user input
