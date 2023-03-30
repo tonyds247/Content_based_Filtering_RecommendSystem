@@ -1,6 +1,6 @@
 # Content_based_Filtering_RecommendSystem
 
-this project used Content_based filtering for recommendation system
+This project implemented a recommendation system using content-based filtering.
 libs referenced:
 - underthesea:https://github.com/undertheseanlp/underthesea
 - Gemmim: https://pypi.org/project/gensim/
@@ -17,8 +17,7 @@ Category: Thoi Trang Nam (Men Fashion)
 
 the result shows as below:
 - Product_based: a list of recommended items will be suggested to user when they are viewing a product
-I. We assumed that user are viewing Item_ID: 23288601
-And there will be 5 suggested items in recommendation (included similarity score)
+I. When a user is viewing Item_ID: 23288601, a list of 5 recommended items will be suggested, along with their similarity score
   + **Gemsim:**
  **Recommend 5 products similar to SÉT ĐỒ THỂ THAO NAM🚗 MẪU MONTER ĐỘC ĐÁO HÀNG BAO ĐẸP. FREEship....result below
 - 23317401
@@ -55,4 +54,4 @@ II. content based on an user input
     + Gemsim: (26579, 0.52) (261208, 0.512) (241187, 0.50) (22670, 0.50) (261127, 0.48)
     + Cosine: (26579, 0.53) (241187, 0.505) (22670, 0.505) (201173, 0.44) (261127, 0.43)
 
---> there was only 1 different item recommended
+--> Only one item was recommended as different from the others.
