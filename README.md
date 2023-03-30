@@ -7,10 +7,10 @@ libs referenced:
 - Cosine_similarity - Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
 
 Data souce: Shopee ecommerce Platform
-link: https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567
+- https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567
 Category: Thoi Trang Nam (Men Fashion)
 
-there are 3 steps:
+ 3 steps:
 - 1. Preprocessing
 - 2. Content_based_Gemmim
 - 3. Content_based_Cosinesimilarity
@@ -54,4 +54,4 @@ II. content based on an user input
     + Gemsim: (26579, 0.52) (261208, 0.512) (241187, 0.50) (22670, 0.50) (261127, 0.48)
     + Cosine: (26579, 0.53) (241187, 0.505) (22670, 0.505) (201173, 0.44) (261127, 0.43)
 
-- there was only 1 different item recommended
+--> there was only 1 different item recommended
