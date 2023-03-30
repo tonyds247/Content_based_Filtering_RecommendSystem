@@ -44,8 +44,9 @@ recommended product id:23463701, Bộ thể thao nam hè NY phối nâu, Bộ na
 recommended product id:1663702, BỘ thể thao nam nữ mẫu thun lạnh ETRENITEST mã ET(score: )0.923302359894251)
 - 23322101
 recommended product id:23322101, Nguyên bộ thể thao nam mẫu mới phong cách hàn quốc,🚛FREE SHIP🚛,(score: )1.0000000000000002)
+
+---> There was similar results
 ----
-** There was similar results
 
 II. content based on an user input
 - User input:  áo Thun NGắn tay màu TRắng, vải Cotton
