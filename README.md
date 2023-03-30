@@ -54,4 +54,4 @@ II. content based on an user input
     + Gemsim: (26579, 0.52) (261208, 0.512) (241187, 0.50) (22670, 0.50) (261127, 0.48)
     + Cosine: (26579, 0.53) (241187, 0.505) (22670, 0.505) (201173, 0.44) (261127, 0.43)
 
---> Only one item was recommended as different from the others.
+--> Only one item was recommended as different from the others 
