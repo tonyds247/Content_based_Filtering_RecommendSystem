@@ -19,7 +19,7 @@ the result shows as below:
 - Product_based: a list of recommended items will be suggested to user when they are viewing a product
 I. We assumed that user are viewing Item_ID: 23288601
 And there will be 5 suggested items in recommendation (included similarity score)
-  + **Gemmim:**
+  + **Gemsim:**
  **Recommend 5 products similar to SÉT ĐỒ THỂ THAO NAM🚗 MẪU MONTER ĐỘC ĐÁO HÀNG BAO ĐẸP. FREEship....result below
 ----
 - 23317401
@@ -53,7 +53,7 @@ II. content based on an user input
 - User input:  áo Thun NGắn tay màu TRắng, vải Cotton
 - After clean process:  ['áo_thun ngắn tay màu trắng vải cotton']
   + recommned product_id:
-    + Gemmsim: (26579, 0.52) (261208, 0.512) (241187, 0.50) (22670, 0.50) (261127, 0.48)
+    + Gemsim: (26579, 0.52) (261208, 0.512) (241187, 0.50) (22670, 0.50) (261127, 0.48)
     + Cosine: (26579, 0.53) (241187, 0.505) (22670, 0.505) (201173, 0.44) (261127, 0.43)
 
 - there was only 1 different item recommended
